@@ -1,0 +1,11 @@
+images_temp/
+output.xlsx
+result.xls
+build
+test_files/
+config.yml
+*.xlsx
+*.xls
+*.pdf
+.vscode/
+__pycache__
