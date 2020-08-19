@@ -1,4 +1,4 @@
-<img src="https://i.loli.net/2020/08/19/21HPdw8r94XFlgz.png" ></a>
+<div align=center><img style="width:60%;" src="https://i.loli.net/2020/08/19/21HPdw8r94XFlgz.png" ></div>
 
 # Any2Excel
 
